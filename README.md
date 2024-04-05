@@ -22,7 +22,7 @@ The color of each cell in the heatmap indicates the strength and direction of th
 the variables represented by the row and column headers.
 
 This is the heatmap correlation from data.
-
+![AS03_tools](https://github.com/porxp/DADS5001_Tools/assets/158511035/90b58336-0737-4d09-bce2-625c99973e08)
 
 To interpret the graph:
 Based on the heatmap correlation, we can observe that some variables have a strong positive correlation 
