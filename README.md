@@ -1,4 +1,4 @@
-This project was created by That Sa (ID: 6610422012) for the DADS5001 Tools course. 
+This project is created by Thatchaphan Samphansompoch (ID: 6610422012) for the DADS5001 Tools course. 
 It is part of the coursework for this subject.
 
    This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. 
